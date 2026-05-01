@@ -1,0 +1,272 @@
+[
+  {
+    "id": "evt-001",
+    "name": "Downtown Jazz Night",
+    "description": "An evening of live jazz featuring the city's finest local musicians. Expect smooth rhythms, great cocktails, and an intimate atmosphere that makes every seat feel like the front row.",
+    "category": "Music",
+    "date": "2026-05-15T19:00:00Z",
+    "venue": "The Blue Note Lounge",
+    "address": "142 Main Street, Suite 2",
+    "cover_image": "https://picsum.photos/seed/evt001/600/400",
+    "price": 25.00,
+    "currency": "USD",
+    "total_spots": 80,
+    "spots_remaining": 34,
+    "organizer": {
+      "name": "City Arts Collective",
+      "email": "events@cityarts.example.com"
+    }
+  },
+  {
+    "id": "evt-002",
+    "name": "React & Beyond Meetup",
+    "description": "A monthly gathering for frontend engineers to share what they're building. This edition covers React Server Components, state management patterns, and a live demo of new Vite tooling.",
+    "category": "Tech",
+    "date": "2026-05-10T18:00:00Z",
+    "venue": "Techub Coworking",
+    "address": "floors 3, 88 Innovation Ave",
+    "cover_image": "https://picsum.photos/seed/evt002/600/400",
+    "price": 0,
+    "currency": "USD",
+    "total_spots": 60,
+    "spots_remaining": 12,
+    "organizer": {
+      "name": "DevCircle Lagos",
+      "email": "hello@devcircle.example.com"
+    }
+  },
+  {
+    "id": "evt-003",
+    "name": "Street Food Festival",
+    "description": "Over 40 vendors bringing the best street food from across the continent. From suya and jollof to tacos and dumplings — come hungry. Live music and family activities all day.",
+    "category": "Food",
+    "date": "2026-05-17T11:00:00Z",
+    "venue": "Victoria Island Open Grounds",
+    "address": "Ozumba Mbadiwe Ave, Victoria Island",
+    "cover_image": "https://picsum.photos/seed/evt003/600/400",
+    "price": 5.00,
+    "currency": "USD",
+    "total_spots": 500,
+    "spots_remaining": 210,
+    "organizer": {
+      "name": "Eat Out Events",
+      "email": "info@eatout.example.com"
+    }
+  },
+  {
+    "id": "evt-004",
+    "name": "Contemporary Art Exhibition",
+    "description": "A curated showcase of emerging African artists working in oil, mixed media, and digital formats. The exhibition runs for three days with guided tours available on request.",
+    "category": "Art",
+    "date": "2026-05-20T10:00:00Z",
+    "venue": "The Gallery on Broad",
+    "address": "15 Broad Street, Lagos Island",
+    "cover_image": "https://picsum.photos/seed/evt004/600/400",
+    "price": 10.00,
+    "currency": "USD",
+    "total_spots": 120,
+    "spots_remaining": 95,
+    "organizer": {
+      "name": "ArtSpace Foundation",
+      "email": "contact@artspace.example.com"
+    }
+  },
+  {
+    "id": "evt-005",
+    "name": "Morning HIIT Bootcamp",
+    "description": "A high-intensity outdoor workout session led by certified trainers. All fitness levels welcome. Bring water, a mat, and good energy. Sessions run every Saturday morning.",
+    "category": "Fitness",
+    "date": "2026-05-09T07:00:00Z",
+    "venue": "Lekki Conservation Centre",
+    "address": "Lekki-Epe Expressway, Lekki",
+    "cover_image": "https://picsum.photos/seed/evt005/600/400",
+    "price": 0,
+    "currency": "USD",
+    "total_spots": 40,
+    "spots_remaining": 7,
+    "organizer": {
+      "name": "FitLagos",
+      "email": "train@fitlagos.example.com"
+    }
+  },
+  {
+    "id": "evt-006",
+    "name": "Afrobeats Live Concert",
+    "description": "Three headline acts and two opening sets in one electrifying night. The venue holds 300 and it always sells out. Early arrival recommended for best standing positions.",
+    "category": "Music",
+    "date": "2026-05-22T20:00:00Z",
+    "venue": "Eko Convention Centre",
+    "address": "Plot 1415 Adetokunbo Ademola St, VI",
+    "cover_image": "https://picsum.photos/seed/evt006/600/400",
+    "price": 40.00,
+    "currency": "USD",
+    "total_spots": 300,
+    "spots_remaining": 55,
+    "organizer": {
+      "name": "Soundwave Promotions",
+      "email": "tickets@soundwave.example.com"
+    }
+  },
+  {
+    "id": "evt-007",
+    "name": "Cloud Architecture Workshop",
+    "description": "A hands-on full-day workshop covering AWS architecture patterns, cost optimization, and designing for scale. Attendees leave with working Terraform configs and reference diagrams.",
+    "category": "Tech",
+    "date": "2026-05-23T09:00:00Z",
+    "venue": "CcHub",
+    "address": "294 Herbert Macaulay Way, Yaba",
+    "cover_image": "https://picsum.photos/seed/evt007/600/400",
+    "price": 30.00,
+    "currency": "USD",
+    "total_spots": 35,
+    "spots_remaining": 18,
+    "organizer": {
+      "name": "CloudCraft Nigeria",
+      "email": "workshops@cloudcraft.example.com"
+    }
+  },
+  {
+    "id": "evt-008",
+    "name": "Wine & Cheese Evening",
+    "description": "A guided tasting experience exploring six wine varieties paired with artisan cheeses from local producers. Hosted by a certified sommelier. Intimate setting, maximum 30 guests.",
+    "category": "Food",
+    "date": "2026-05-29T18:30:00Z",
+    "venue": "Noir Restaurant & Bar",
+    "address": "7 Akin Adesola Street, Victoria Island",
+    "cover_image": "https://picsum.photos/seed/evt008/600/400",
+    "price": 50.00,
+    "currency": "USD",
+    "total_spots": 30,
+    "spots_remaining": 9,
+    "organizer": {
+      "name": "Taste Curators",
+      "email": "bookings@tastecurators.example.com"
+    }
+  },
+  {
+    "id": "evt-009",
+    "name": "Sculpture & Space",
+    "description": "An outdoor installation by award-winning sculptor Amara Obi. The works explore the tension between urban growth and natural space. Free guided walk-throughs at 12pm and 4pm daily.",
+    "category": "Art",
+    "date": "2026-06-01T09:00:00Z",
+    "venue": "Freedom Park",
+    "address": "1 Broad Street, Lagos Island",
+    "cover_image": "https://picsum.photos/seed/evt009/600/400",
+    "price": 0,
+    "currency": "USD",
+    "total_spots": 200,
+    "spots_remaining": 200,
+    "organizer": {
+      "name": "Public Art Lagos",
+      "email": "info@publicartlagos.example.com"
+    }
+  },
+  {
+    "id": "evt-010",
+    "name": "5K Fun Run",
+    "description": "A community 5K run through the streets of Ikoyi. Suitable for all paces — this is about participation, not competition. Medal and breakfast pack included for all finishers.",
+    "category": "Fitness",
+    "date": "2026-05-30T06:30:00Z",
+    "venue": "Ikoyi Club Starting Point",
+    "address": "Ikoyi Club 1938, Lagos",
+    "cover_image": "https://picsum.photos/seed/evt010/600/400",
+    "price": 8.00,
+    "currency": "USD",
+    "total_spots": 150,
+    "spots_remaining": 63,
+    "organizer": {
+      "name": "RunLagos",
+      "email": "register@runlagos.example.com"
+    }
+  },
+  {
+    "id": "evt-011",
+    "name": "Open Mic & Poetry Night",
+    "description": "A safe, supportive space for spoken word artists, poets, and storytellers. Sign up at the door to perform a 5-minute set, or just come to listen. Theme for this edition: Identity.",
+    "category": "Art",
+    "date": "2026-05-13T19:00:00Z",
+    "venue": "Terra Kulture",
+    "address": "1376 Tiamiyu Savage St, Victoria Island",
+    "cover_image": "https://picsum.photos/seed/evt011/600/400",
+    "price": 0,
+    "currency": "USD",
+    "total_spots": 80,
+    "spots_remaining": 44,
+    "organizer": {
+      "name": "Word & Stage",
+      "email": "hello@wordandstage.example.com"
+    }
+  },
+  {
+    "id": "evt-012",
+    "name": "Node.js Performance Deep Dive",
+    "description": "An advanced session on profiling and optimizing Node.js applications in production. Topics include event loop analysis, memory leak detection, and benchmarking strategies.",
+    "category": "Tech",
+    "date": "2026-06-04T17:00:00Z",
+    "venue": "Andela Lagos Office",
+    "address": "635 Admiralty Way, Lekki Phase 1",
+    "cover_image": "https://picsum.photos/seed/evt012/600/400",
+    "price": 0,
+    "currency": "USD",
+    "total_spots": 50,
+    "spots_remaining": 31,
+    "organizer": {
+      "name": "NodeNG Community",
+      "email": "events@nodeng.example.com"
+    }
+  },
+  {
+    "id": "evt-013",
+    "name": "Yoga & Mindfulness Retreat",
+    "description": "A half-day retreat combining gentle yoga flows, breathwork, and guided meditation. Set in a quiet garden space. Beginners welcome. Mats provided, light refreshments included.",
+    "category": "Fitness",
+    "date": "2026-06-06T08:00:00Z",
+    "venue": "The Nest Wellness Studio",
+    "address": "22 Olu Holloway Road, Ikoyi",
+    "cover_image": "https://picsum.photos/seed/evt013/600/400",
+    "price": 20.00,
+    "currency": "USD",
+    "total_spots": 25,
+    "spots_remaining": 10,
+    "organizer": {
+      "name": "Inner Space Lagos",
+      "email": "retreat@innerspace.example.com"
+    }
+  },
+  {
+    "id": "evt-014",
+    "name": "Jollof Cook-Off Championship",
+    "description": "Eight competing cooks. One pot each. A panel of judges and an audience vote decide the champion. Attendees get to taste all entries. This year's prize: ₦500,000 and bragging rights.",
+    "category": "Food",
+    "date": "2026-06-07T13:00:00Z",
+    "venue": "Balmoral Hall, Federal Palace Hotel",
+    "address": "1415 Ahmadu Bello Way, Victoria Island",
+    "cover_image": "https://picsum.photos/seed/evt014/600/400",
+    "price": 15.00,
+    "currency": "USD",
+    "total_spots": 200,
+    "spots_remaining": 88,
+    "organizer": {
+      "name": "Naija Food Network",
+      "email": "info@naijafood.example.com"
+    }
+  },
+  {
+    "id": "evt-015",
+    "name": "Highlife Legends Tribute Night",
+    "description": "A tribute concert celebrating the golden era of West African highlife music. Live band. Classic arrangements. A night for those who remember — and those ready to discover.",
+    "category": "Music",
+    "date": "2026-06-12T19:30:00Z",
+    "venue": "MUSON Centre",
+    "address": "8/9 Marina, Onikan, Lagos Island",
+    "cover_image": "https://picsum.photos/seed/evt015/600/400",
+    "price": 20.00,
+    "currency": "USD",
+    "total_spots": 250,
+    "spots_remaining": 102,
+    "organizer": {
+      "name": "Heritage Sounds",
+      "email": "tickets@heritagesounds.example.com"
+    }
+  }
+]
