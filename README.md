@@ -1,6 +1,6 @@
 # Event Booking Platform — Backend API
 
-This was built as part of a technical assessment. The task was to build an event discovery API where users can browse, search, and filter upcoming events. I focused on the backend side since that's my primary area.
+A RESTful API for an event discovery platform. Supports browsing, searching, and filtering events by keyword, category, and date range with built-in pagination.
 
 ---
 
